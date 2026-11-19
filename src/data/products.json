@@ -1,0 +1,1818 @@
+[
+  {
+    "id": "a040127",
+    "name": "AI 3D 智能露趾襪套",
+    "category": "足部／機能襪",
+    "bodyPart": "足部",
+    "brand": "脊米",
+    "variants": [
+      {
+        "sku": "A040127",
+        "sizeOrColor": "17–20",
+        "stockStatus": "正常"
+      },
+      {
+        "sku": "A040129",
+        "sizeOrColor": "20–23",
+        "stockStatus": "正常"
+      },
+      {
+        "sku": "A040128",
+        "sizeOrColor": "23–26",
+        "stockStatus": "正常"
+      },
+      {
+        "sku": "A040130",
+        "sizeOrColor": "26–29",
+        "stockStatus": "正常"
+      }
+    ],
+    "price": 1280,
+    "promoPrice": 3700,
+    "promoNote": "三雙特價",
+    "sizing": "型錄以數字區間標示此款尺寸。",
+    "imagePath": "/assets/products/a040127.png",
+    "sourcePage": 1,
+    "keyMechanisms": [
+      "萊卡彈性纖維與 3D 螺旋織帶",
+      "外側下壓與內側足弓拉提設計",
+      "加厚腳底氣墊與吸濕透氣棉紗"
+    ],
+    "evidenceRefs": [
+      {
+        "refId": "a040127-1",
+        "title": "3D 螺旋織帶",
+        "detail": "舒適彈性束口、主襪體萊卡彈性纖維、3D 螺旋織帶。",
+        "sourcePage": 1
+      },
+      {
+        "refId": "a040127-2",
+        "title": "足弓與力線",
+        "detail": "外側動態下壓、橫弓及橫向立體三角塑型。內側足弓拉提。3D 螺旋拉提力線延伸回正下肢排列。",
+        "sourcePage": 1
+      },
+      {
+        "refId": "a040127-3",
+        "title": "足底材質",
+        "detail": "腳底氣墊加厚、吸濕透氣棉紗。",
+        "sourcePage": 1
+      }
+    ],
+    "clinicalIntro": "足弓織帶搭配足底緩衝，露趾設計適合偏好腳趾透氣的使用者。",
+    "researchEvidence": [
+      {
+        "refId": 1,
+        "claimTag": "同類襪具｜間接證據",
+        "citation": "Otter et al., Journal of Foot and Ankle Research (2015)",
+        "studyType": "系統性回顧",
+        "finding": "七篇糖尿病足保護襪研究提示，加厚襪可能降低足底壓力，但研究品質有限。適用性限於研究中的保護襪，無法推定本款的足弓矯正效果。",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25977708/"
+      }
+    ]
+  },
+  {
+    "id": "a040159",
+    "name": "AI 3D 智能低船型襪",
+    "category": "足部／機能襪",
+    "bodyPart": "足部",
+    "brand": "脊米",
+    "variants": [
+      {
+        "sku": "A040159",
+        "sizeOrColor": "17–20",
+        "stockStatus": "正常"
+      },
+      {
+        "sku": "A040177",
+        "sizeOrColor": "20–23",
+        "stockStatus": "正常"
+      },
+      {
+        "sku": "A040176",
+        "sizeOrColor": "23–26",
+        "stockStatus": "正常"
+      }
+    ],
+    "price": 1280,
+    "promoPrice": 3700,
+    "promoNote": "三雙特價",
+    "sizing": "型錄以數字區間標示此款尺寸。",
+    "imagePath": "/assets/products/a040159.png",
+    "sourcePage": 1,
+    "keyMechanisms": [
+      "萊卡彈性纖維與 3D 螺旋織帶",
+      "外側下壓與內側足弓拉提設計",
+      "加厚腳底氣墊與吸濕透氣棉紗"
+    ],
+    "evidenceRefs": [
+      {
+        "refId": "a040159-1",
+        "title": "3D 螺旋織帶",
+        "detail": "舒適彈性束口、主襪體萊卡彈性纖維、3D 螺旋織帶。",
+        "sourcePage": 1
+      },
+      {
+        "refId": "a040159-2",
+        "title": "足弓與力線",
+        "detail": "外側動態下壓、橫弓及橫向立體三角塑型。內側足弓拉提。3D 螺旋拉提力線延伸回正下肢排列。",
+        "sourcePage": 1
+      },
+      {
+        "refId": "a040159-3",
+        "title": "足底材質",
+        "detail": "腳底氣墊加厚、吸濕透氣棉紗。",
+        "sourcePage": 1
+      }
+    ],
+    "clinicalIntro": "低襪口搭配足弓織帶及足底緩衝，適合常穿低口鞋者。",
+    "researchEvidence": [
+      {
+        "refId": 1,
+        "claimTag": "同類襪具｜間接證據",
+        "citation": "Otter et al., Journal of Foot and Ankle Research (2015)",
+        "studyType": "系統性回顧",
+        "finding": "七篇糖尿病足保護襪研究提示，加厚襪可能降低足底壓力，但研究品質有限。適用性限於研究中的保護襪，無法推定本款的足弓矯正效果。",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25977708/"
+      }
+    ]
+  },
+  {
+    "id": "a040175",
+    "name": "AI 3D 智能高船型襪",
+    "category": "足部／機能襪",
+    "bodyPart": "足部",
+    "brand": "脊米",
+    "variants": [
+      {
+        "sku": "A040175",
+        "sizeOrColor": "17–20",
+        "stockStatus": "正常"
+      },
+      {
+        "sku": "A040174",
+        "sizeOrColor": "20–23",
+        "stockStatus": "正常"
+      },
+      {
+        "sku": "A040173",
+        "sizeOrColor": "23–26",
+        "stockStatus": "正常"
+      },
+      {
+        "sku": "A040172",
+        "sizeOrColor": "26–29",
+        "stockStatus": "正常"
+      },
+      {
+        "sku": "A040171",
+        "sizeOrColor": "29–32",
+        "stockStatus": "正常"
+      },
+      {
+        "sku": "A040170",
+        "sizeOrColor": "32–35",
+        "stockStatus": "正常"
+      }
+    ],
+    "price": 1280,
+    "promoPrice": 3700,
+    "promoNote": "三雙特價",
+    "sizing": "型錄以數字區間標示此款尺寸。",
+    "imagePath": "/assets/products/a040175.png",
+    "sourcePage": 1,
+    "keyMechanisms": [
+      "萊卡彈性纖維與 3D 螺旋織帶",
+      "外側下壓與內側足弓拉提設計",
+      "加厚腳底氣墊與吸濕透氣棉紗"
+    ],
+    "evidenceRefs": [
+      {
+        "refId": "a040175-1",
+        "title": "3D 螺旋織帶",
+        "detail": "舒適彈性束口、主襪體萊卡彈性纖維、3D 螺旋織帶。",
+        "sourcePage": 1
+      },
+      {
+        "refId": "a040175-2",
+        "title": "足弓與力線",
+        "detail": "外側動態下壓、橫弓及橫向立體三角塑型。內側足弓拉提。3D 螺旋拉提力線延伸回正下肢排列。",
+        "sourcePage": 1
+      },
+      {
+        "refId": "a040175-3",
+        "title": "足底材質",
+        "detail": "腳底氣墊加厚、吸濕透氣棉紗。",
+        "sourcePage": 1
+      }
+    ],
+    "clinicalIntro": "船型襪口搭配足弓織帶及足底緩衝，適合日常步行者。",
+    "researchEvidence": [
+      {
+        "refId": 1,
+        "claimTag": "同類襪具｜間接證據",
+        "citation": "Otter et al., Journal of Foot and Ankle Research (2015)",
+        "studyType": "系統性回顧",
+        "finding": "七篇糖尿病足保護襪研究提示，加厚襪可能降低足底壓力，但研究品質有限。適用性限於研究中的保護襪，無法推定本款的足弓矯正效果。",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25977708/"
+      }
+    ]
+  },
+  {
+    "id": "a040169",
+    "name": "AI 3D 智能上班族短襪",
+    "category": "足部／機能襪",
+    "bodyPart": "足部",
+    "brand": "脊米",
+    "variants": [
+      {
+        "sku": "A040169",
+        "sizeOrColor": "20–23",
+        "stockStatus": "正常"
+      },
+      {
+        "sku": "A040168",
+        "sizeOrColor": "23–26",
+        "stockStatus": "正常"
+      },
+      {
+        "sku": "A040167",
+        "sizeOrColor": "26–29",
+        "stockStatus": "正常"
+      },
+      {
+        "sku": "A040166",
+        "sizeOrColor": "29–32",
+        "stockStatus": "正常"
+      }
+    ],
+    "price": 1460,
+    "promoPrice": 4200,
+    "promoNote": "三雙特價",
+    "sizing": "型錄以數字區間標示此款尺寸。",
+    "imagePath": "/assets/products/a040169.png",
+    "sourcePage": 1,
+    "keyMechanisms": [
+      "萊卡彈性纖維與 3D 螺旋織帶",
+      "外側下壓與內側足弓拉提設計",
+      "加厚腳底氣墊與吸濕透氣棉紗"
+    ],
+    "evidenceRefs": [
+      {
+        "refId": "a040169-1",
+        "title": "3D 螺旋織帶",
+        "detail": "舒適彈性束口、主襪體萊卡彈性纖維、3D 螺旋織帶。",
+        "sourcePage": 1
+      },
+      {
+        "refId": "a040169-2",
+        "title": "足弓與力線",
+        "detail": "外側動態下壓、橫弓及橫向立體三角塑型。內側足弓拉提。3D 螺旋拉提力線延伸回正下肢排列。",
+        "sourcePage": 1
+      },
+      {
+        "refId": "a040169-3",
+        "title": "足底材質",
+        "detail": "腳底氣墊加厚、吸濕透氣棉紗。",
+        "sourcePage": 1
+      }
+    ],
+    "clinicalIntro": "足弓織帶搭配加厚足底，供久站或走動頻繁的工作者選配。",
+    "researchEvidence": [
+      {
+        "refId": 1,
+        "claimTag": "同類襪具｜間接證據",
+        "citation": "Otter et al., Journal of Foot and Ankle Research (2015)",
+        "studyType": "系統性回顧",
+        "finding": "七篇糖尿病足保護襪研究提示，加厚襪可能降低足底壓力，但研究品質有限。適用性限於研究中的保護襪，無法推定本款的足弓矯正效果。",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25977708/"
+      }
+    ]
+  },
+  {
+    "id": "a040165",
+    "name": "AI 3D 智能運動襪 Exercise",
+    "category": "足部／機能襪",
+    "bodyPart": "足部",
+    "brand": "脊米",
+    "variants": [
+      {
+        "sku": "A040165",
+        "sizeOrColor": "17–20",
+        "stockStatus": "正常"
+      },
+      {
+        "sku": "A040164",
+        "sizeOrColor": "20–23",
+        "stockStatus": "正常"
+      },
+      {
+        "sku": "A040163",
+        "sizeOrColor": "23–26",
+        "stockStatus": "正常"
+      },
+      {
+        "sku": "A040162",
+        "sizeOrColor": "26–29",
+        "stockStatus": "正常"
+      },
+      {
+        "sku": "A040161",
+        "sizeOrColor": "29–32",
+        "stockStatus": "正常"
+      },
+      {
+        "sku": "A040160",
+        "sizeOrColor": "32–35",
+        "stockStatus": "正常"
+      }
+    ],
+    "price": 1460,
+    "promoPrice": 4200,
+    "promoNote": "三雙特價",
+    "sizing": "型錄以數字區間標示此款尺寸。",
+    "imagePath": "/assets/products/a040165.png",
+    "sourcePage": 1,
+    "keyMechanisms": [
+      "萊卡彈性纖維與 3D 螺旋織帶",
+      "外側下壓與內側足弓拉提設計",
+      "加厚腳底氣墊與吸濕透氣棉紗"
+    ],
+    "evidenceRefs": [
+      {
+        "refId": "a040165-1",
+        "title": "3D 螺旋織帶",
+        "detail": "舒適彈性束口、主襪體萊卡彈性纖維、3D 螺旋織帶。",
+        "sourcePage": 1
+      },
+      {
+        "refId": "a040165-2",
+        "title": "足弓與力線",
+        "detail": "外側動態下壓、橫弓及橫向立體三角塑型。內側足弓拉提。3D 螺旋拉提力線延伸回正下肢排列。",
+        "sourcePage": 1
+      },
+      {
+        "refId": "a040165-3",
+        "title": "足底材質",
+        "detail": "腳底氣墊加厚、吸濕透氣棉紗。",
+        "sourcePage": 1
+      }
+    ],
+    "clinicalIntro": "足弓織帶搭配足底襯墊，供健走或慢跑者選用緩衝襪。",
+    "researchEvidence": [
+      {
+        "refId": 1,
+        "claimTag": "同類運動襪｜間接證據",
+        "citation": "Zhou et al., Materials (2025)",
+        "studyType": "生物力學研究",
+        "finding": "10 位休閒跑者的跑步機測試中，特定緩衝襪降低拇趾與第一蹠骨頭的峰值壓力。結果限於該研究襪款及測試條件。",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40649429/"
+      }
+    ]
+  },
+  {
+    "id": "a040158",
+    "name": "AI 3D 智能中筒／網球襪",
+    "category": "足部／機能襪",
+    "bodyPart": "足部",
+    "brand": "脊米",
+    "variants": [
+      {
+        "sku": "A040158",
+        "sizeOrColor": "20–23",
+        "stockStatus": "正常"
+      },
+      {
+        "sku": "A040157",
+        "sizeOrColor": "23–26",
+        "stockStatus": "正常"
+      },
+      {
+        "sku": "A040156",
+        "sizeOrColor": "26–29",
+        "stockStatus": "正常"
+      },
+      {
+        "sku": "A040155",
+        "sizeOrColor": "29–32",
+        "stockStatus": "正常"
+      }
+    ],
+    "price": 1550,
+    "promoPrice": 4450,
+    "promoNote": "三雙特價",
+    "sizing": "型錄以數字區間標示此款尺寸。",
+    "imagePath": "/assets/products/a040158.png",
+    "sourcePage": 2,
+    "keyMechanisms": [
+      "萊卡彈性纖維與 3D 螺旋織帶",
+      "外側下壓與內側足弓拉提設計",
+      "加厚腳底氣墊與吸濕透氣棉紗"
+    ],
+    "evidenceRefs": [
+      {
+        "refId": "a040158-1",
+        "title": "3D 螺旋織帶",
+        "detail": "舒適彈性束口、主襪體萊卡彈性纖維、3D 螺旋織帶。",
+        "sourcePage": 2
+      },
+      {
+        "refId": "a040158-2",
+        "title": "足弓與力線",
+        "detail": "外側動態下壓、橫弓及橫向立體三角塑型。內側足弓拉提。3D 螺旋拉提力線延伸回正下肢排列。",
+        "sourcePage": 2
+      },
+      {
+        "refId": "a040158-3",
+        "title": "足底材質",
+        "detail": "腳底氣墊加厚、吸濕透氣棉紗。",
+        "sourcePage": 2
+      }
+    ],
+    "clinicalIntro": "中筒包覆搭配足弓織帶與足底襯墊，供網球等運動時選用。",
+    "researchEvidence": [
+      {
+        "refId": 1,
+        "claimTag": "同類運動襪｜間接證據",
+        "citation": "Zhou et al., Materials (2025)",
+        "studyType": "生物力學研究",
+        "finding": "10 位休閒跑者的跑步機測試中，特定緩衝襪降低拇趾與第一蹠骨頭的峰值壓力。結果限於該研究襪款及測試條件。",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40649429/"
+      }
+    ]
+  },
+  {
+    "id": "a040154",
+    "name": "AI 3D 智能五趾襪",
+    "category": "足部／機能襪",
+    "bodyPart": "足部",
+    "brand": "脊米",
+    "variants": [
+      {
+        "sku": "A040154",
+        "sizeOrColor": "17–20",
+        "stockStatus": "正常"
+      },
+      {
+        "sku": "A040153",
+        "sizeOrColor": "20–23",
+        "stockStatus": "正常"
+      },
+      {
+        "sku": "A040152",
+        "sizeOrColor": "23–26",
+        "stockStatus": "正常"
+      },
+      {
+        "sku": "A040151",
+        "sizeOrColor": "26–29",
+        "stockStatus": "正常"
+      },
+      {
+        "sku": "A040150",
+        "sizeOrColor": "29–32",
+        "stockStatus": "正常"
+      }
+    ],
+    "price": 1550,
+    "promoPrice": 4450,
+    "promoNote": "三雙特價",
+    "sizing": "型錄以數字區間標示此款尺寸。",
+    "imagePath": "/assets/products/a040154.png",
+    "sourcePage": 2,
+    "keyMechanisms": [
+      "萊卡彈性纖維與 3D 螺旋織帶",
+      "外側下壓與內側足弓拉提設計",
+      "加厚腳底氣墊與吸濕透氣棉紗"
+    ],
+    "evidenceRefs": [
+      {
+        "refId": "a040154-1",
+        "title": "3D 螺旋織帶",
+        "detail": "舒適彈性束口、主襪體萊卡彈性纖維、3D 螺旋織帶。",
+        "sourcePage": 2
+      },
+      {
+        "refId": "a040154-2",
+        "title": "足弓與力線",
+        "detail": "外側動態下壓、橫弓及橫向立體三角塑型。內側足弓拉提。3D 螺旋拉提力線延伸回正下肢排列。",
+        "sourcePage": 2
+      },
+      {
+        "refId": "a040154-3",
+        "title": "足底材質",
+        "detail": "腳底氣墊加厚、吸濕透氣棉紗。",
+        "sourcePage": 2
+      }
+    ],
+    "clinicalIntro": "襪體分開包覆各趾並加厚足底，適合偏好五趾分隔與緩衝者。",
+    "researchEvidence": [
+      {
+        "refId": 1,
+        "claimTag": "同類五趾襪｜間接證據",
+        "citation": "Zhou et al., Materials (2025)",
+        "studyType": "生物力學研究",
+        "finding": "10 位休閒跑者的跑步機測試中，受測五趾襪較普通跑襪降低前足壓力負荷。結果限於該研究襪款及測試條件。",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40649429/"
+      }
+    ]
+  },
+  {
+    "id": "a050001",
+    "name": "非變性二型膠原蛋白",
+    "category": "營養保健",
+    "bodyPart": "營養保健",
+    "brand": "本草集",
+    "variants": [
+      {
+        "sku": "A050001",
+        "sizeOrColor": "單一規格",
+        "stockStatus": "正常"
+      }
+    ],
+    "price": 1480,
+    "promoPrice": 1200,
+    "promoNote": "優惠碼 VMQ3｜81 折",
+    "imagePath": "/assets/products/a050001.png",
+    "sourcePage": 3,
+    "keyMechanisms": [
+      "每顆含 UC-II 40 mg",
+      "搭配蛋白聚醣與 Bonepep® 水解蛋黃粉"
+    ],
+    "evidenceRefs": [
+      {
+        "refId": "a050001-1",
+        "title": "UC-II 含量",
+        "detail": "每顆含瑞士原廠 UC-II 足量 40 mg。",
+        "sourcePage": 3
+      },
+      {
+        "refId": "a050001-2",
+        "title": "配方成分",
+        "detail": "型錄列日本專利蛋白聚醣與日本專利水解蛋黃粉 Bonepep®。",
+        "sourcePage": 3
+      }
+    ],
+    "clinicalIntro": "含非變性二型膠原蛋白，供膝關節不適且想評估營養補充的成人參考。",
+    "researchEvidence": [
+      {
+        "refId": 1,
+        "claimTag": "UC-II 成分｜間接證據",
+        "citation": "Lugo et al., Nutrition Journal (2016)",
+        "studyType": "隨機對照試驗",
+        "finding": "膝骨關節炎成人每日補充 UC-II 40 mg，180 天後 WOMAC 整體症狀評分改善較安慰劑多。試驗評估的是 UC-II，對本商品複方的證據屬間接。",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26822714/"
+      }
+    ]
+  },
+  {
+    "id": "a050009",
+    "name": "D3＋紅藻蝦紅素（800 IU）",
+    "category": "營養保健",
+    "bodyPart": "營養保健",
+    "brand": "本草集",
+    "variants": [
+      {
+        "sku": "A050009",
+        "sizeOrColor": "800 IU",
+        "stockStatus": "正常"
+      }
+    ],
+    "price": 1080,
+    "promoPrice": null,
+    "promoNote": "優惠碼 VMQ3｜買二送一",
+    "imagePath": "/assets/products/a050009.png",
+    "sourcePage": 3,
+    "keyMechanisms": [
+      "藻類來源維生素 D3 800 IU",
+      "雨生紅球藻來源蝦紅素"
+    ],
+    "evidenceRefs": [
+      {
+        "refId": "a050009-1",
+        "title": "維生素 D3 規格",
+        "detail": "藻類來源維生素 D3 800 IU（升級 2 倍）。",
+        "sourcePage": 3
+      },
+      {
+        "refId": "a050009-2",
+        "title": "紅藻蝦紅素與植物配方",
+        "detail": "雨生紅球藻來源蝦紅素。100% 藻類來源，Vegan 植物潔淨配方，素食也可食用。",
+        "sourcePage": 3
+      }
+    ],
+    "clinicalIntro": "含藻源維生素 D3 與蝦紅素，供需評估維生素 D 攝取的成人參考。",
+    "researchEvidence": [
+      {
+        "refId": 1,
+        "claimTag": "維生素 D｜臨床指引",
+        "citation": "Demay et al., Journal of Clinical Endocrinology & Metabolism (2024)",
+        "studyType": "臨床指引",
+        "finding": "指引建議 75 歲以上成人可評估額外補充維生素 D，健康的 75 歲以下成人通常依建議攝取量即可。指引適用於維生素 D，對本複方的證據屬間接。",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38828931/"
+      },
+      {
+        "refId": 2,
+        "claimTag": "蝦紅素成分｜間接證據",
+        "citation": "Sekikawa et al., Journal of Clinical Biochemistry and Nutrition (2023)",
+        "studyType": "隨機對照試驗",
+        "finding": "一項六週試驗中，蝦紅素組年滿 40 歲的亞組在使用螢幕後，主眼矯正視力優於安慰劑組。結果限於該劑量、亞組與單一視力指標。",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36777084/"
+      }
+    ]
+  },
+  {
+    "id": "a050007",
+    "name": "蛋殼鈣＋鎂",
+    "category": "營養保健",
+    "bodyPart": "營養保健",
+    "brand": "本草集",
+    "variants": [
+      {
+        "sku": "A050007",
+        "sizeOrColor": "單一規格",
+        "stockStatus": "正常"
+      }
+    ],
+    "price": 1080,
+    "promoPrice": 880,
+    "promoNote": "優惠碼 VMQ3｜81 折",
+    "imagePath": "/assets/products/a050007.png",
+    "sourcePage": 3,
+    "keyMechanisms": [
+      "蛋殼鈣配方，型錄標示含鈣 500 mg",
+      "鈣鎂比例 4:1"
+    ],
+    "evidenceRefs": [
+      {
+        "refId": "a050007-1",
+        "title": "鈣含量",
+        "detail": "型錄列 500 mg 高鈣含量，鈣來源為蛋殼鈣。",
+        "sourcePage": 3
+      },
+      {
+        "refId": "a050007-2",
+        "title": "鈣鎂比例",
+        "detail": "型錄列鈣鎂平衡 4:1。",
+        "sourcePage": 3
+      }
+    ],
+    "clinicalIntro": "以蛋殼鈣搭配鎂，供鈣攝取偏低且需評估營養補充的成人參考。",
+    "researchEvidence": [
+      {
+        "refId": 1,
+        "claimTag": "蛋殼鈣配方｜間接證據",
+        "citation": "Schaafsma et al., British Journal of Nutrition (2002)",
+        "studyType": "隨機對照試驗",
+        "finding": "停經後女性使用含蛋殼鈣、鎂與維生素的複方一年，股骨頸骨密度優於安慰劑組。結果限於該配方及骨密度指標。",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12064336/"
+      }
+    ]
+  },
+  {
+    "id": "a050005",
+    "name": "B 群＋鋅",
+    "category": "營養保健",
+    "bodyPart": "營養保健",
+    "brand": "本草集",
+    "variants": [
+      {
+        "sku": "A050005",
+        "sizeOrColor": "單一規格",
+        "stockStatus": "正常"
+      }
+    ],
+    "price": 880,
+    "promoPrice": null,
+    "promoNote": "優惠碼 VMQ3｜買二送一",
+    "imagePath": "/assets/products/a050005.png",
+    "sourcePage": 3,
+    "keyMechanisms": [
+      "天然酵母來源 B 群",
+      "搭配葡萄糖酸鋅"
+    ],
+    "evidenceRefs": [
+      {
+        "refId": "a050005-1",
+        "title": "B 群來源",
+        "detail": "天然酵母，非化學合成維他命。",
+        "sourcePage": 3
+      },
+      {
+        "refId": "a050005-2",
+        "title": "鋅來源",
+        "detail": "生命元素葡萄糖酸鋅。",
+        "sourcePage": 3
+      }
+    ],
+    "clinicalIntro": "含酵母來源維生素 B 群與葡萄糖酸鋅，供飲食攝取不足者評估補充。",
+    "researchEvidence": [
+      {
+        "refId": 1,
+        "claimTag": "維生素 B 群｜間接證據",
+        "citation": "Young et al., Nutrients (2019)",
+        "studyType": "系統性回顧與統合分析",
+        "finding": "含至少三種 B 群維生素的試驗顯示壓力指標小幅改善，焦慮與憂鬱指標未達統計顯著。結果適用於納入的補充配方與族群。",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31527485/"
+      }
+    ]
+  },
+  {
+    "id": "a040064",
+    "name": "環狀拉力帶（桃紅）",
+    "category": "運動訓練",
+    "bodyPart": "全身",
+    "brand": "科正",
+    "variants": [
+      {
+        "sku": "A040064",
+        "sizeOrColor": "桃紅",
+        "stockStatus": "缺貨"
+      }
+    ],
+    "price": 200,
+    "promoPrice": null,
+    "promoNote": "",
+    "imagePath": "/assets/products/a040064.png",
+    "sourcePage": 4,
+    "keyMechanisms": [
+      "環狀拉力帶，用於一般阻力訓練",
+      "乳膠材質"
+    ],
+    "evidenceRefs": [
+      {
+        "refId": "a040064-1",
+        "title": "拉力帶型式",
+        "detail": "極輕型，適合一般民眾的訓練。多種強度、多樣化訓練、可自行搭配。",
+        "sourcePage": 4
+      },
+      {
+        "refId": "a040064-2",
+        "title": "材質",
+        "detail": "型錄載明為馬來西亞乳膠。",
+        "sourcePage": 4
+      }
+    ],
+    "clinicalIntro": "以彈性拉伸提供運動阻力，供希望練習上下肢肌力者選配。",
+    "researchEvidence": [
+      {
+        "refId": 1,
+        "claimTag": "彈性阻力與肌力",
+        "citation": "Lopes et al., SAGE Open Medicine (2019)",
+        "studyType": "系統性回顧",
+        "finding": "統合八項研究，彈性阻力訓練與器械或啞鈴訓練的上下肢肌力增幅相近。研究未測試此環帶的個別色號或阻力。",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=10.1177%2F2050312119831116"
+      },
+      {
+        "refId": 2,
+        "claimTag": "高齡者肌力訓練",
+        "citation": "Martins et al., Archives of Gerontology and Geriatrics (2013)",
+        "studyType": "系統性回顧",
+        "finding": "高齡者研究顯示，規律彈性阻力訓練有助提升肌力。結果來自訓練方案，不能用來推估此環帶的個別色號或阻力效果。",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=10.1016%2Fj.archger.2013.03.002"
+      }
+    ]
+  },
+  {
+    "id": "a040059",
+    "name": "環狀拉力帶（淺藍）",
+    "category": "運動訓練",
+    "bodyPart": "全身",
+    "brand": "科正",
+    "variants": [
+      {
+        "sku": "A040059",
+        "sizeOrColor": "淺藍",
+        "stockStatus": "缺貨"
+      }
+    ],
+    "price": 260,
+    "promoPrice": null,
+    "promoNote": "",
+    "imagePath": "/assets/products/a040059.png",
+    "sourcePage": 4,
+    "keyMechanisms": [
+      "環狀拉力帶，用於一般阻力訓練",
+      "乳膠材質"
+    ],
+    "evidenceRefs": [
+      {
+        "refId": "a040059-1",
+        "title": "拉力帶型式",
+        "detail": "極輕型，適合一般民眾的訓練。多種強度、多樣化訓練、可自行搭配。",
+        "sourcePage": 4
+      },
+      {
+        "refId": "a040059-2",
+        "title": "材質",
+        "detail": "型錄載明為馬來西亞乳膠。",
+        "sourcePage": 4
+      }
+    ],
+    "clinicalIntro": "以彈性拉伸提供運動阻力，供希望練習上下肢肌力者選配。",
+    "researchEvidence": [
+      {
+        "refId": 1,
+        "claimTag": "彈性阻力與肌力",
+        "citation": "Lopes et al., SAGE Open Medicine (2019)",
+        "studyType": "系統性回顧",
+        "finding": "統合八項研究，彈性阻力訓練與器械或啞鈴訓練的上下肢肌力增幅相近。研究未測試此環帶的個別色號或阻力。",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=10.1177%2F2050312119831116"
+      },
+      {
+        "refId": 2,
+        "claimTag": "高齡者肌力訓練",
+        "citation": "Martins et al., Archives of Gerontology and Geriatrics (2013)",
+        "studyType": "系統性回顧",
+        "finding": "高齡者研究顯示，規律彈性阻力訓練有助提升肌力。結果來自訓練方案，不能用來推估此環帶的個別色號或阻力效果。",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=10.1016%2Fj.archger.2013.03.002"
+      }
+    ]
+  },
+  {
+    "id": "a040060",
+    "name": "環狀拉力帶（紫色）",
+    "category": "運動訓練",
+    "bodyPart": "全身",
+    "brand": "科正",
+    "variants": [
+      {
+        "sku": "A040060",
+        "sizeOrColor": "紫色",
+        "stockStatus": "缺貨"
+      }
+    ],
+    "price": 280,
+    "promoPrice": null,
+    "promoNote": "",
+    "imagePath": "/assets/products/a040060.png",
+    "sourcePage": 4,
+    "keyMechanisms": [
+      "環狀拉力帶，用於一般阻力訓練",
+      "乳膠材質"
+    ],
+    "evidenceRefs": [
+      {
+        "refId": "a040060-1",
+        "title": "拉力帶型式",
+        "detail": "極輕型，適合一般民眾的訓練。多種強度、多樣化訓練、可自行搭配。",
+        "sourcePage": 4
+      },
+      {
+        "refId": "a040060-2",
+        "title": "材質",
+        "detail": "型錄載明為馬來西亞乳膠。",
+        "sourcePage": 4
+      }
+    ],
+    "clinicalIntro": "以彈性拉伸提供運動阻力，供希望練習上下肢肌力者選配。",
+    "researchEvidence": [
+      {
+        "refId": 1,
+        "claimTag": "彈性阻力與肌力",
+        "citation": "Lopes et al., SAGE Open Medicine (2019)",
+        "studyType": "系統性回顧",
+        "finding": "統合八項研究，彈性阻力訓練與器械或啞鈴訓練的上下肢肌力增幅相近。研究未測試此環帶的個別色號或阻力。",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=10.1177%2F2050312119831116"
+      },
+      {
+        "refId": 2,
+        "claimTag": "高齡者肌力訓練",
+        "citation": "Martins et al., Archives of Gerontology and Geriatrics (2013)",
+        "studyType": "系統性回顧",
+        "finding": "高齡者研究顯示，規律彈性阻力訓練有助提升肌力。結果來自訓練方案，不能用來推估此環帶的個別色號或阻力效果。",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=10.1016%2Fj.archger.2013.03.002"
+      }
+    ]
+  },
+  {
+    "id": "a040066",
+    "name": "酥震槍超頻按摩儀",
+    "category": "放鬆儀器",
+    "bodyPart": "全身",
+    "brand": "火星",
+    "variants": [
+      {
+        "sku": "A040066",
+        "sizeOrColor": "黑色",
+        "stockStatus": "正常"
+      }
+    ],
+    "price": 3990,
+    "promoPrice": 3690,
+    "promoNote": "型錄特價",
+    "imagePath": "/assets/products/a040066.png",
+    "sourcePage": 4,
+    "keyMechanisms": [
+      "四檔震動，型錄標示最高 6,600 轉",
+      "模擬撥筋揉按手法"
+    ],
+    "evidenceRefs": [
+      {
+        "refId": "a040066-1",
+        "title": "震動頻率",
+        "detail": "結合四檔震動技術，頻率高達 6600 轉。",
+        "sourcePage": 4
+      },
+      {
+        "refId": "a040066-2",
+        "title": "按摩方式",
+        "detail": "模擬撥筋揉開手法，避免脆弱部位垂直擊打。",
+        "sourcePage": 4
+      }
+    ],
+    "clinicalIntro": "以局部震動刺激肌肉，供運動後想放鬆者選配，長期恢復效益尚未確立。",
+    "researchEvidence": [
+      {
+        "refId": 1,
+        "claimTag": "叩擊按摩與活動度",
+        "citation": "Ferreira et al., Journal of Functional Morphology and Kinesiology (2023)",
+        "studyType": "系統性回顧",
+        "finding": "按摩槍研究顯示短期關節活動度與柔軟度可能增加，肌力及運動表現未一致改善。研究多有偏差風險，未驗證此型號。",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=10.3390%2Fjfmk8030138"
+      },
+      {
+        "refId": 2,
+        "claimTag": "小腿即時活動度",
+        "citation": "Nakamura et al., Journal of Sports Science and Medicine (2024)",
+        "studyType": "交叉試驗",
+        "finding": "十五名健康年輕男性接受小腿叩擊按摩後，踝背屈活動度即時增加，最大等長肌力無顯著變化。研究僅檢視短期反應與其他機型。",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=10.52082%2Fjssm.2024.73"
+      }
+    ]
+  },
+  {
+    "id": "a040065",
+    "name": "冥想按摩眼罩",
+    "category": "放鬆儀器",
+    "bodyPart": "眼部",
+    "brand": "火星",
+    "variants": [
+      {
+        "sku": "A040065",
+        "sizeOrColor": "單一規格",
+        "stockStatus": "正常"
+      }
+    ],
+    "price": 2990,
+    "promoPrice": null,
+    "promoNote": "",
+    "imagePath": "/assets/products/a040065.png",
+    "sourcePage": 4,
+    "keyMechanisms": [
+      "石墨烯發熱片，型錄標示 45°C 恆溫",
+      "雙層氣袋按摩眼周",
+      "支援藍牙音樂"
+    ],
+    "evidenceRefs": [
+      {
+        "refId": "a040065-1",
+        "title": "熱敷規格",
+        "detail": "採用專業石墨烯發熱片，加熱迅速 45°C 恆溫。",
+        "sourcePage": 4
+      },
+      {
+        "refId": "a040065-2",
+        "title": "按摩結構",
+        "detail": "雙層氣袋設計，按摩眼週八大穴位。",
+        "sourcePage": 4
+      },
+      {
+        "refId": "a040065-3",
+        "title": "音訊功能",
+        "detail": "可連結藍牙音樂，高保真立體聲輸出。",
+        "sourcePage": 4
+      }
+    ],
+    "clinicalIntro": "溫熱敷眼周，供瞼板腺相關眼乾不適者與專業人員討論選用。",
+    "researchEvidence": [
+      {
+        "refId": 1,
+        "claimTag": "眼瞼溫熱敷",
+        "citation": "Jones et al., The Ocular Surface (2017)",
+        "studyType": "專家共識",
+        "finding": "TFOS 報告將眼瞼溫熱敷列為瞼板腺功能障礙相關乾眼的照護選項。該建議未驗證本眼罩的設定溫度與氣壓按摩效果。",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=10.1016%2Fj.jtos.2017.05.006"
+      },
+      {
+        "refId": 2,
+        "claimTag": "瞼板腺相關眼乾",
+        "citation": "Sim et al., Ophthalmology and Therapy (2014)",
+        "studyType": "RCT",
+        "finding": "瞼板腺功能障礙者的試驗比較三種眼瞼加熱方式，其中部分方法在眼乾症狀上優於溫毛巾。研究未評估本款眼罩。",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=10.1007%2Fs40123-014-0025-8"
+      }
+    ]
+  },
+  {
+    "id": "a040073",
+    "name": "血壓計 HEM-7157T",
+    "category": "健康量測",
+    "bodyPart": "上臂",
+    "brand": "中化",
+    "variants": [
+      {
+        "sku": "A040073",
+        "sizeOrColor": "臂圍 22–32 公分",
+        "stockStatus": "缺貨"
+      }
+    ],
+    "price": 2280,
+    "promoPrice": null,
+    "promoNote": "",
+    "sizing": "適用臂圍 22–32 公分。",
+    "imagePath": "/assets/products/a040073.png",
+    "sourcePage": 4,
+    "keyMechanisms": [
+      "藍牙傳輸與 100 組記憶",
+      "附壓脈帶著裝確認與不規則脈波檢測",
+      "適用臂圍 22–32 公分"
+    ],
+    "evidenceRefs": [
+      {
+        "refId": "a040073-1",
+        "title": "藍牙與記憶",
+        "detail": "藍牙傳輸 APP 管理，100 組記憶。",
+        "sourcePage": 4
+      },
+      {
+        "refId": "a040073-2",
+        "title": "偵測與提醒",
+        "detail": "壓脈帶著裝確認、不規則脈波檢測、身體晃動檢測、血壓偏高提醒。",
+        "sourcePage": 4
+      },
+      {
+        "refId": "a040073-3",
+        "title": "臂帶適用範圍",
+        "detail": "適用臂圍 22–32 公分。",
+        "sourcePage": 4
+      }
+    ],
+    "clinicalIntro": "上臂式自動量測與記錄血壓，供需居家追蹤者選配，使用前確認臂圍。",
+    "researchEvidence": [
+      {
+        "refId": 1,
+        "claimTag": "居家血壓量測",
+        "citation": "Muntner et al., Hypertension (2019)",
+        "studyType": "學會科學聲明",
+        "finding": "美國心臟協會建議使用通過準確度驗證的上臂式儀器與合適臂帶，居家讀數可輔助追蹤。聲明未驗證這個型號。",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=10.1161%2FHYP.0000000000000087"
+      },
+      {
+        "refId": 2,
+        "claimTag": "居家量測輔助治療追蹤",
+        "citation": "McManus et al., The Lancet (2018)",
+        "studyType": "RCT",
+        "finding": "TASMINH4 以居家血壓讀數輔助醫療人員調整用藥，十二個月時的診間收縮壓低於一般照護組。研究支持追蹤流程，未比較此型號。",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=10.1016%2FS0140-6736%2818%2930309-X"
+      }
+    ]
+  },
+  {
+    "id": "mueller-wrist-brace",
+    "name": "慕樂可調式腕關節護具",
+    "category": "手腕與手肘",
+    "bodyPart": "手腕",
+    "brand": "科正",
+    "variants": [
+      {
+        "sku": "待核對",
+        "sizeOrColor": "型錄未列尺寸",
+        "stockStatus": "缺貨"
+      }
+    ],
+    "price": null,
+    "promoPrice": null,
+    "promoNote": "",
+    "imagePath": "/assets/products/mueller-wrist-brace.png",
+    "sourcePage": 6,
+    "keyMechanisms": [
+      "壓力可自行調整",
+      "合成橡膠材質"
+    ],
+    "evidenceRefs": [
+      {
+        "refId": "mueller-wrist-brace-1",
+        "title": "支撐調整",
+        "detail": "可自行調整壓力，支撐固定效果佳。",
+        "sourcePage": 6
+      },
+      {
+        "refId": "mueller-wrist-brace-2",
+        "title": "材質",
+        "detail": "合成橡膠材質，舒適保暖。",
+        "sourcePage": 6
+      }
+    ],
+    "clinicalIntro": "可調束帶提供腕部外部支撐，供日常活動想限制手腕動作者選配。",
+    "researchEvidence": [
+      {
+        "refId": 1,
+        "claimTag": "護腕固定與腕隧道症狀",
+        "citation": "Karjalainen et al., Cochrane Database of Systematic Reviews (2023)",
+        "studyType": "系統性回顧",
+        "finding": "腕隧道症候群研究中，副木的短期症狀或手部功能效益有限，夜間使用的整體改善證據確定性低。研究多為固定型副木，與此護腕不同。",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=10.1002%2F14651858.CD010003.pub2"
+      }
+    ]
+  },
+  {
+    "id": "a040118",
+    "name": "AirSkin 涼感拇指纏繞式護腕",
+    "category": "手腕與手肘",
+    "bodyPart": "手腕",
+    "brand": "穗品",
+    "variants": [
+      {
+        "sku": "A040118",
+        "sizeOrColor": "未標示尺寸",
+        "stockStatus": "正常"
+      }
+    ],
+    "price": 360,
+    "promoPrice": null,
+    "promoNote": "",
+    "imagePath": "/assets/products/a040118.png",
+    "sourcePage": 7,
+    "keyMechanisms": [
+      "人體工學剪裁貼合虎口",
+      "涼感透氣布料",
+      "纏繞結構可調鬆緊"
+    ],
+    "evidenceRefs": [
+      {
+        "refId": "a040118-1",
+        "title": "虎口貼合",
+        "detail": "結合人體工學設計，自然貼合虎口曲線。",
+        "sourcePage": 7
+      },
+      {
+        "refId": "a040118-2",
+        "title": "涼感布料",
+        "detail": "涼感透氣布料，減少悶熱搔癢感，提升穿戴舒適度。",
+        "sourcePage": 7
+      },
+      {
+        "refId": "a040118-3",
+        "title": "纏繞加壓",
+        "detail": "穩定拇指活動角度，降低負擔。纏繞加壓設計，輕鬆穿戴、調整鬆緊。",
+        "sourcePage": 7
+      }
+    ],
+    "clinicalIntro": "貼合虎口並以纏繞帶支撐拇指，供抓握時需要外部支撐者選配。",
+    "researchEvidence": [
+      {
+        "refId": 1,
+        "claimTag": "拇指固定與手部功能",
+        "citation": "Challoumas et al., JAMA Network Open (2023)",
+        "studyType": "網絡統合分析",
+        "finding": "狄奎凡氏腱鞘炎研究中，注射合併固定式拇指副木相較單獨注射，手部功能的差異未達臨床重要程度。不能推定這款彈性護腕有相同效果。",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=10.1001%2Fjamanetworkopen.2023.37001"
+      }
+    ]
+  },
+  {
+    "id": "a040147",
+    "name": "360 拇指型護腕",
+    "category": "手腕與手肘",
+    "bodyPart": "手腕",
+    "brand": "吉斯邁",
+    "variants": [
+      {
+        "sku": "A040147",
+        "sizeOrColor": "右手 S/M",
+        "stockStatus": "正常"
+      },
+      {
+        "sku": "A040146",
+        "sizeOrColor": "左手 S/M",
+        "stockStatus": "正常"
+      },
+      {
+        "sku": "A040145",
+        "sizeOrColor": "右手 L/XL",
+        "stockStatus": "正常"
+      },
+      {
+        "sku": "A040144",
+        "sizeOrColor": "左手 L/XL",
+        "stockStatus": "正常"
+      }
+    ],
+    "price": 530,
+    "promoPrice": null,
+    "promoNote": "",
+    "imagePath": "/assets/products/a040147.png",
+    "sourcePage": 7,
+    "keyMechanisms": [
+      "拇指與腕關節的加壓設計",
+      "Power-Band 藤蔓壓條",
+      "超薄透氣材質"
+    ],
+    "evidenceRefs": [
+      {
+        "refId": "a040147-1",
+        "title": "拇指與手腕加壓",
+        "detail": "精準加壓護腕，穩定拇指與腕關節。",
+        "sourcePage": 7
+      },
+      {
+        "refId": "a040147-2",
+        "title": "Power-Band 壓條",
+        "detail": "Power-Band 藤蔓壓條技術，模擬貼紮效果。",
+        "sourcePage": 7
+      },
+      {
+        "refId": "a040147-3",
+        "title": "超薄透氣材質",
+        "detail": "超薄透氣材質，長時間佩戴依然舒適。",
+        "sourcePage": 7
+      }
+    ],
+    "clinicalIntro": "以彈性加壓支撐拇指及手腕，供日常活動需要局部穩定者選配。",
+    "researchEvidence": [
+      {
+        "refId": 1,
+        "claimTag": "拇指固定與手部功能",
+        "citation": "Challoumas et al., JAMA Network Open (2023)",
+        "studyType": "網絡統合分析",
+        "finding": "狄奎凡氏腱鞘炎研究中，注射合併固定式拇指副木相較單獨注射，手部功能的差異未達臨床重要程度。不能推定這款彈性護腕有相同效果。",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=10.1001%2Fjamanetworkopen.2023.37001"
+      }
+    ]
+  },
+  {
+    "id": "a040122",
+    "name": "AirSkin 涼感透氣3D護腰",
+    "category": "腰部支撐",
+    "bodyPart": "腰部",
+    "brand": "穗品",
+    "variants": [
+      {
+        "sku": "A040122",
+        "sizeOrColor": "M",
+        "stockStatus": "正常"
+      },
+      {
+        "sku": "A040121",
+        "sizeOrColor": "L",
+        "stockStatus": "正常"
+      }
+    ],
+    "price": 1485,
+    "promoPrice": null,
+    "promoNote": "",
+    "imagePath": "/assets/products/a040122.png",
+    "sourcePage": 8,
+    "keyMechanisms": [
+      "S 型護脊腰片貼合支撐",
+      "AirSkin 涼感透氣針織",
+      "助力穿戴拉環"
+    ],
+    "evidenceRefs": [
+      {
+        "refId": "a040122-1",
+        "title": "S 型腰片",
+        "detail": "S 型護脊腰片貼合，提供更舒適的貼合支撐。均勻分散腰部壓力，提升舒適度。",
+        "sourcePage": 8
+      },
+      {
+        "refId": "a040122-2",
+        "title": "AirSkin 布料",
+        "detail": "獨家 AirSkin 涼感透氣針織布料，吸濕排汗降低悶熱感。",
+        "sourcePage": 8
+      },
+      {
+        "refId": "a040122-3",
+        "title": "助力拉環",
+        "detail": "助力穿戴拉環，拉伸穿戴省力不費勁。",
+        "sourcePage": 8
+      }
+    ],
+    "clinicalIntro": "腰片與束帶提供外部支撐，供短時活動輔助選配，長期效益不明。",
+    "researchEvidence": [
+      {
+        "refId": 1,
+        "claimTag": "下背痛與腰部支撐",
+        "citation": "van Duijvenbode et al., Cochrane Database of Systematic Reviews (2008)",
+        "studyType": "系統性回顧",
+        "finding": "腰部支撐帶是否優於不使用或其他方式以治療下背痛，證據仍不明確。回顧涵蓋不同設計，未驗證此款護腰。",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=10.1002%2F14651858.CD001823.pub3"
+      },
+      {
+        "refId": 2,
+        "claimTag": "慢性原發性下背痛",
+        "citation": "World Health Organization, WHO Guideline (2023)",
+        "studyType": "臨床指引",
+        "finding": "世界衛生組織對慢性原發性下背痛，條件式建議避免例行提供腰帶、護具或支撐。指引未評估本產品。",
+        "url": "https://www.who.int/publications/i/item/9789240081789"
+      }
+    ]
+  },
+  {
+    "id": "a040053",
+    "name": "慕樂 髕腱加壓帶",
+    "category": "膝蓋與腳踝",
+    "bodyPart": "膝蓋",
+    "brand": "慕樂（Mueller）",
+    "variants": [
+      {
+        "sku": "A040053",
+        "sizeOrColor": "未標示尺寸",
+        "stockStatus": "缺貨"
+      }
+    ],
+    "price": 500,
+    "promoPrice": null,
+    "promoNote": "",
+    "imagePath": "/assets/products/a040053.png",
+    "sourcePage": 9,
+    "keyMechanisms": [
+      "圓管型墊對髕腱加壓",
+      "舒適型黏扣帶"
+    ],
+    "evidenceRefs": [
+      {
+        "refId": "a040053-1",
+        "title": "髕腱加壓",
+        "detail": "內部圓管型加壓墊，提供髕腱加壓。",
+        "sourcePage": 9
+      },
+      {
+        "refId": "a040053-2",
+        "title": "黏扣帶",
+        "detail": "舒適型黏扣帶設計，不刮傷衣物。",
+        "sourcePage": 9
+      }
+    ],
+    "clinicalIntro": "以圓管墊在髕骨下方加壓，供跑跳時髕腱疼痛的運動者選配。",
+    "researchEvidence": [
+      {
+        "refId": 1,
+        "claimTag": "髕腱短期疼痛",
+        "citation": "de Vries et al., Scand J Med Sci Sports (2016)",
+        "studyType": "RCT",
+        "finding": "髕腱病運動員用髕腱束帶做單腳斜板深蹲時，比不使用的情況疼痛較少，與安慰貼布無顯著差異。結果限於短期及受試束帶，無法確認此款的效果。",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26376953/"
+      }
+    ]
+  },
+  {
+    "id": "a040055",
+    "name": "慕樂 加壓型護膝",
+    "category": "膝蓋與腳踝",
+    "bodyPart": "膝蓋",
+    "brand": "慕樂（Mueller）",
+    "variants": [
+      {
+        "sku": "A040055",
+        "sizeOrColor": "單一尺寸・左右通用",
+        "stockStatus": "缺貨"
+      }
+    ],
+    "price": 1500,
+    "promoPrice": null,
+    "promoNote": "",
+    "sizing": "單一尺寸，左右腳均適用。",
+    "imagePath": "/assets/products/a040055.png",
+    "sourcePage": 9,
+    "keyMechanisms": [
+      "膝蓋上下與兩側配置圓管墊",
+      "左右腳通用"
+    ],
+    "evidenceRefs": [
+      {
+        "refId": "a040055-1",
+        "title": "圓管型加壓墊",
+        "detail": "膝蓋上下方及兩側，均有圓管型加壓墊。",
+        "sourcePage": 9
+      },
+      {
+        "refId": "a040055-2",
+        "title": "穿戴規格",
+        "detail": "單一尺寸，左右腳均適用。",
+        "sourcePage": 9
+      }
+    ],
+    "clinicalIntro": "以多點圓管墊包覆膝蓋，供運動時需要局部加壓支撐者選配。",
+    "researchEvidence": [
+      {
+        "refId": 1,
+        "claimTag": "髕股疼痛",
+        "citation": "Smith et al., Cochrane Database Syst Rev (2015)",
+        "studyType": "系統性回顧",
+        "finding": "髕股疼痛成人做運動治療時，加用護膝、套筒或束帶未明確改善短期疼痛或功能。證據確定性很低，研究未直接評估此款。",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26645724/"
+      }
+    ]
+  },
+  {
+    "id": "a040056",
+    "name": "慕樂 交叉型踝關節護具",
+    "category": "膝蓋與腳踝",
+    "bodyPart": "腳踝",
+    "brand": "慕樂（Mueller）",
+    "variants": [
+      {
+        "sku": "A040056",
+        "sizeOrColor": "未標示尺寸",
+        "stockStatus": "缺貨"
+      }
+    ],
+    "price": 780,
+    "promoPrice": null,
+    "promoNote": "",
+    "imagePath": "/assets/products/a040056.png",
+    "sourcePage": 9,
+    "keyMechanisms": [
+      "Neoprene 橡膠布料",
+      "可調式 8 字型交叉束帶"
+    ],
+    "evidenceRefs": [
+      {
+        "refId": "a040056-1",
+        "title": "Neoprene 橡膠",
+        "detail": "獨家 Neoprene 特殊橡膠材質，高質感潛水衣布料。",
+        "sourcePage": 9
+      },
+      {
+        "refId": "a040056-2",
+        "title": "交叉束帶",
+        "detail": "專利可調節式交叉分黏貼束帶。8 字型設計提升踝關節穩定度。",
+        "sourcePage": 9
+      }
+    ],
+    "clinicalIntro": "以可調交叉束帶限制踝部過度側翻，供曾扭傷且重返運動者選配。",
+    "researchEvidence": [
+      {
+        "refId": 1,
+        "claimTag": "扭傷預防",
+        "citation": "Barelds et al., Sports Med (2018)",
+        "studyType": "系統性回顧",
+        "finding": "運動員戴護踝有助降低急性踝傷發生率，涵蓋首次與再次受傷。研究使用多種護踝，未證實此款有同等預防效果。",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30298478/"
+      },
+      {
+        "refId": 2,
+        "claimTag": "復發預防與復健",
+        "citation": "Martin et al., J Orthop Sports Phys Ther (2021)",
+        "studyType": "臨床指引",
+        "finding": "指引建議既往外側踝扭傷者使用預防性護踝，並做本體覺與平衡訓練以降低復發。此建議適用於護具類別，未評估此款八字綁帶。",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33789434/"
+      }
+    ]
+  },
+  {
+    "id": "a040111",
+    "name": "AirSkin 涼感3D護膝",
+    "category": "膝蓋與腳踝",
+    "bodyPart": "膝蓋",
+    "brand": "穗品",
+    "variants": [
+      {
+        "sku": "A040111",
+        "sizeOrColor": "S",
+        "stockStatus": "正常"
+      },
+      {
+        "sku": "A040116",
+        "sizeOrColor": "M",
+        "stockStatus": "正常"
+      },
+      {
+        "sku": "A040125",
+        "sizeOrColor": "L",
+        "stockStatus": "正常"
+      }
+    ],
+    "price": 855,
+    "promoPrice": null,
+    "promoNote": "",
+    "imagePath": "/assets/products/a040111.png",
+    "sourcePage": 10,
+    "keyMechanisms": [
+      "涼感內裡搭配萊卡",
+      "上下加壓搭配彈力支撐條",
+      "輕量結構"
+    ],
+    "evidenceRefs": [
+      {
+        "refId": "a040111-1",
+        "title": "涼感內裡",
+        "detail": "膝蓋內側涼感布料，結合萊卡吸濕排汗。",
+        "sourcePage": 10
+      },
+      {
+        "refId": "a040111-2",
+        "title": "雙重加壓",
+        "detail": "上下雙重加壓與彈力支撐條，有效減少膝關節負擔。",
+        "sourcePage": 10
+      },
+      {
+        "refId": "a040111-3",
+        "title": "輕量設計",
+        "detail": "輕量設計，降低長時間佩戴的不適感。",
+        "sourcePage": 10
+      }
+    ],
+    "clinicalIntro": "上下加壓與彈性支撐條包覆膝部，供有退化性膝痛、活動時需支撐者選配。",
+    "researchEvidence": [
+      {
+        "refId": 1,
+        "claimTag": "退化性膝關節炎",
+        "citation": "Cudejko et al., Arch Phys Med Rehabil (2018)",
+        "studyType": "系統性回顧",
+        "finding": "退化性膝關節炎患者使用軟式護膝，相較未使用者，疼痛與自評功能可能改善。這是軟式護膝類別的結果，未直接評估此款或涼感布料。",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28687317/"
+      }
+    ]
+  },
+  {
+    "id": "a040117",
+    "name": "AirSkin 涼感裸肌綁帶護踝",
+    "category": "膝蓋與腳踝",
+    "bodyPart": "腳踝",
+    "brand": "穗品",
+    "variants": [
+      {
+        "sku": "A040117",
+        "sizeOrColor": "未標示尺寸",
+        "stockStatus": "正常"
+      }
+    ],
+    "price": 684,
+    "promoPrice": null,
+    "promoNote": "",
+    "imagePath": "/assets/products/a040117.png",
+    "sourcePage": 10,
+    "keyMechanisms": [
+      "立體貼合與彈力八字加壓",
+      "涼感親膚的輕薄結構"
+    ],
+    "evidenceRefs": [
+      {
+        "refId": "a040117-1",
+        "title": "八字加壓",
+        "detail": "立體貼合設計與彈力八字加壓結構，提升穩定度。模擬貼紮技術，有效支撐並穩定腳踝活動。",
+        "sourcePage": 10
+      },
+      {
+        "refId": "a040117-2",
+        "title": "親膚材質",
+        "detail": "涼感親膚材質，長時間穿戴不悶熱。極致輕薄結構，可輕鬆穿入。",
+        "sourcePage": 10
+      }
+    ],
+    "clinicalIntro": "以輕薄八字綁帶環繞加壓，供曾扭傷且活動時需腳踝支撐者選配。",
+    "researchEvidence": [
+      {
+        "refId": 1,
+        "claimTag": "扭傷預防",
+        "citation": "Barelds et al., Sports Med (2018)",
+        "studyType": "系統性回顧",
+        "finding": "運動員戴護踝有助降低急性踝傷發生率，涵蓋首次與再次受傷。研究使用多種護踝，未證實此款有同等預防效果。",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30298478/"
+      }
+    ]
+  },
+  {
+    "id": "a040148",
+    "name": "360 髕骨型護膝",
+    "category": "膝蓋與腳踝",
+    "bodyPart": "膝蓋",
+    "brand": "吉斯邁",
+    "variants": [
+      {
+        "sku": "A040148",
+        "sizeOrColor": "L/XL",
+        "stockStatus": "正常"
+      }
+    ],
+    "price": 920,
+    "promoPrice": null,
+    "promoNote": "",
+    "imagePath": "/assets/products/a040148.png",
+    "sourcePage": 11,
+    "keyMechanisms": [
+      "360 度環繞貼合膝部",
+      "髕骨型定位結構",
+      "彈性材質貼合包覆"
+    ],
+    "evidenceRefs": [
+      {
+        "refId": "a040148-1",
+        "title": "環繞包覆",
+        "detail": "360 度環繞包覆設計，貼合膝部曲線。",
+        "sourcePage": 11
+      },
+      {
+        "refId": "a040148-2",
+        "title": "髕骨定位",
+        "detail": "髕骨型結構配置，定位更明確。",
+        "sourcePage": 11
+      },
+      {
+        "refId": "a040148-3",
+        "title": "彈性材質",
+        "detail": "彈性材質設計，長時間穿戴更舒適。穩定包覆不易滑動，日常穿戴更安心。",
+        "sourcePage": 11
+      }
+    ],
+    "clinicalIntro": "以彈性環繞結構貼合髕骨周圍，供日常活動時希望增加膝部包覆者選配。",
+    "researchEvidence": [
+      {
+        "refId": 1,
+        "claimTag": "髕股疼痛",
+        "citation": "Smith et al., Cochrane Database Syst Rev (2015)",
+        "studyType": "系統性回顧",
+        "finding": "髕股疼痛成人做運動治療時，加用護膝、套筒或束帶未明確改善短期疼痛或功能。證據確定性很低，研究未直接評估此款。",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26645724/"
+      }
+    ]
+  },
+  {
+    "id": "a040143",
+    "name": "360 8字穩固護踝",
+    "category": "膝蓋與腳踝",
+    "bodyPart": "腳踝",
+    "brand": "吉斯邁",
+    "variants": [
+      {
+        "sku": "A040143",
+        "sizeOrColor": "S",
+        "stockStatus": "正常"
+      },
+      {
+        "sku": "A040142",
+        "sizeOrColor": "M",
+        "stockStatus": "正常"
+      },
+      {
+        "sku": "A040141",
+        "sizeOrColor": "L",
+        "stockStatus": "正常"
+      }
+    ],
+    "price": 680,
+    "promoPrice": null,
+    "promoNote": "",
+    "imagePath": "/assets/products/a040143.png",
+    "sourcePage": 11,
+    "keyMechanisms": [
+      "8 字型綁帶環繞支撐腳踝",
+      "左右綁帶可個別調節",
+      "服貼輕薄的透氣結構"
+    ],
+    "evidenceRefs": [
+      {
+        "refId": "a040143-1",
+        "title": "8 字型綁帶",
+        "detail": "結合 8 字型綁帶，360 度包覆穩固，支撐腳踝。",
+        "sourcePage": 11
+      },
+      {
+        "refId": "a040143-2",
+        "title": "束帶調節",
+        "detail": "可依自身狀況調整左右綁帶強度，保持腳踝平衡穩固。",
+        "sourcePage": 11
+      },
+      {
+        "refId": "a040143-3",
+        "title": "透氣材質",
+        "detail": "透氣設計，減少濕悶熱，服貼輕薄，包覆不易束縛。",
+        "sourcePage": 11
+      }
+    ],
+    "clinicalIntro": "可分別調整兩側八字綁帶，供曾扭傷且重返運動時需踝部支撐者選配。",
+    "researchEvidence": [
+      {
+        "refId": 1,
+        "claimTag": "扭傷預防",
+        "citation": "Barelds et al., Sports Med (2018)",
+        "studyType": "系統性回顧",
+        "finding": "運動員戴護踝有助降低急性踝傷發生率，涵蓋首次與再次受傷。研究使用多種護踝，未證實此款有同等預防效果。",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30298478/"
+      },
+      {
+        "refId": 2,
+        "claimTag": "復發預防與復健",
+        "citation": "Martin et al., J Orthop Sports Phys Ther (2021)",
+        "studyType": "臨床指引",
+        "finding": "指引建議既往外側踝扭傷者使用預防性護踝，並做本體覺與平衡訓練以降低復發。此建議適用於護具類別，未評估此款八字綁帶。",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33789434/"
+      }
+    ]
+  },
+  {
+    "id": "a040139",
+    "name": "簡捷型膝關節穩固束帶",
+    "category": "膝蓋與腳踝",
+    "bodyPart": "膝蓋",
+    "brand": "吉斯邁",
+    "variants": [
+      {
+        "sku": "A040139",
+        "sizeOrColor": "未標示尺寸",
+        "stockStatus": "正常"
+      }
+    ],
+    "price": 530,
+    "promoPrice": null,
+    "promoNote": "",
+    "imagePath": "/assets/products/a040139.png",
+    "sourcePage": 11,
+    "keyMechanisms": [
+      "纏繞膝蓋下緣肌腱處",
+      "柔軟材質貼合膝蓋下緣"
+    ],
+    "evidenceRefs": [
+      {
+        "refId": "a040139-1",
+        "title": "髕腱部位支撐",
+        "detail": "纏繞膝蓋下緣肌腱處，提供運動時關鍵部位支撐。",
+        "sourcePage": 11
+      },
+      {
+        "refId": "a040139-2",
+        "title": "柔軟接觸材質",
+        "detail": "貼合膝蓋下緣弧度，柔軟材質適度按壓肌腱。適合需要大範圍活動的運動者。",
+        "sourcePage": 11
+      }
+    ],
+    "clinicalIntro": "柔軟束帶按壓髕骨下緣肌腱，供跑跳時髕腱疼痛的運動者選配。",
+    "researchEvidence": [
+      {
+        "refId": 1,
+        "claimTag": "髕腱短期疼痛",
+        "citation": "de Vries et al., Scand J Med Sci Sports (2016)",
+        "studyType": "RCT",
+        "finding": "髕腱病運動員用髕腱束帶做單腳斜板深蹲時，比不使用的情況疼痛較少，與安慰貼布無顯著差異。結果限於短期及受試束帶，無法確認此款的效果。",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26376953/"
+      }
+    ]
+  },
+  {
+    "id": "a040138",
+    "name": "T-Gel 可調式足弓支撐鞋墊",
+    "category": "足部",
+    "bodyPart": "足部",
+    "brand": "吉斯邁",
+    "variants": [
+      {
+        "sku": "A040138",
+        "sizeOrColor": "36–39",
+        "stockStatus": "正常"
+      },
+      {
+        "sku": "A040137",
+        "sizeOrColor": "40–43",
+        "stockStatus": "正常"
+      },
+      {
+        "sku": "A040136",
+        "sizeOrColor": "44–47",
+        "stockStatus": "正常"
+      }
+    ],
+    "price": 440,
+    "promoPrice": null,
+    "promoNote": "",
+    "imagePath": "/assets/products/a040138.png",
+    "sourcePage": 11,
+    "keyMechanisms": [
+      "前掌與後跟配置減壓氣墊",
+      "可調整式足弓支撐",
+      "AEGIS 表布與中厚度凝膠墊"
+    ],
+    "evidenceRefs": [
+      {
+        "refId": "a040138-1",
+        "title": "減壓氣墊",
+        "detail": "前掌及後跟部位減壓氣墊設計，有效分散衝擊與壓力。",
+        "sourcePage": 11
+      },
+      {
+        "refId": "a040138-2",
+        "title": "可調式足弓",
+        "detail": "可調整式足體工學足弓結構，加強足弓部位支撐保護。",
+        "sourcePage": 11
+      },
+      {
+        "refId": "a040138-3",
+        "title": "AEGIS 表布",
+        "detail": "使用 AEGIS 防霉抗菌舒適表布，吸濕排汗、觸感舒適。中厚度凝膠墊，適用各類鞋款。",
+        "sourcePage": 11
+      }
+    ],
+    "clinicalIntro": "可調足弓支撐與前後掌緩衝，供走路時足跟疼痛或希望增加足弓支撐者選配。",
+    "researchEvidence": [
+      {
+        "refId": 1,
+        "claimTag": "足跟疼痛",
+        "citation": "Whittaker et al., Br J Sports Med (2018)",
+        "studyType": "系統性回顧",
+        "finding": "足底足跟痛成人使用足部矯具，約七至十二週的疼痛比使用假鞋墊略低，功能未改善。改善幅度是否具臨床意義仍不確定，且研究未直接評估此款。",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28935689/"
+      }
+    ]
+  }
+]
